@@ -630,7 +630,6 @@ img {
 
 .form-container {
     margin-bottom: 8px;
-
 }
 
 .label-for-pers-info-input {
@@ -730,4 +729,6 @@ img {
     fill: transparent;
 }
 
-.user-privacy[checked]
+.form-last-container {
+    margin-bottom: 16px;
+}
