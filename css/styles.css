@@ -731,10 +731,10 @@ img {
     margin-bottom: 16px;
 }
 
-.user-privacy:checked+.terms-and-conditions-icon {
+.user-privacy:checked+.terms-and-conditions-label>.terms-and-conditions-icon {
     background-color: #404bbf;
     border: none;
-    fill: #F4F4FD
+    fill: #F4F4FD;
 }
 
 .privacy-policy-link {
